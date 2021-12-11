@@ -1,6 +1,4 @@
 # Numerical Methods for Scientific Computing
-*Kyle A. Novak*
+*Kyle Novak*
 
-This book provides is a reference book, guidebook, and textbook into the mathematics of common numerical methods used in Scientific Computing.
-
-The book is a work in progress.  Please feel free to provide comments or suggestions (errors, typos, clarity, etc.) 
+A comprehensive graduate-level text on the mathematical theory and application of scientific computing algorithms. The book covers numerical methods in linear algebra, analysis, and differential equations with detailed examples and exercises using Julia, Python, and Matlab/Octave.
